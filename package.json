@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "dev": "vuepress dev",
-    "htmlBuild": "vuepress build",
+    "build": "vuepress build",
     "eject": "vuepress eject"
   },
   "repository": {
