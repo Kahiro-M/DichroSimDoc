@@ -1,0 +1,26 @@
+{
+  "name": "dichromat-color-distance-simulator-document",
+  "version": "1.1.0",
+  "description": "Dichromat Color Distance Simulator Document",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vuepress dev",
+    "htmlBuild": "vuepress build",
+    "eject": "vuepress eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kahiro-M/DichroSimDoc.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Dichromat",
+    "Simulator"
+  ],
+  "author": "Kahiro-M",
+  "license": " Apache-2.0",
+  "devDependencies": {
+    "vuepress": "^1.0.0-rc.1"
+  },
+  "dependencies": {}
+}
