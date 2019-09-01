@@ -20,4 +20,4 @@ footer: Apache License 2.0 | Copyright © 2018-present Kahiro-M
 この網膜の感度の差により、色の見え方が大きく異なります。  
 その結果、私たちは互いに「全く同じ色」を認識することは極めて困難です。
 
-### そのギャップ、[この色弱色差シミュレータ](https://kahiro-m.github.io/DichroSim/index.html)が埋めます。
+### そのギャップ、この[色弱色差シミュレータ](https://kahiro-m.github.io/DichroSim/index.html)が埋めます。
