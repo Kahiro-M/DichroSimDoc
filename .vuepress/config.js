@@ -10,15 +10,17 @@ module.exports = {
     // ナビゲーションにコンテンツに加える内容を追加させます。
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'はじめに', link: '/contents/' }
+      { text: 'はじめに', link: '/contents/Introduction' }
     ],
 
     // サイドバーを追加します。
     sidebar: [
       '/',
-      '/contents/chap1',
-      '/contents/chap2',
-      '/contents/chap3',
+      '/contents/Introduction',
+      '/contents/About',
+      '/contents/HowToUse',
+      '/contents/Explanation',
+      '/contents/SourceCode',
     ],
     // ヘディングタイトルを自動でサイドメニューに表示させます。
     displayAllHeaders: true,

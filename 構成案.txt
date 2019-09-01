@@ -1,6 +1,6 @@
 表紙
-はじめに
-用語について
-使い方
-動作原理
-ソースコード
+はじめに : introduction
+用語について : about
+使い方 : how to use
+動作原理 :  Explanation
+ソースコード : source code
